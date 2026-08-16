@@ -54,7 +54,7 @@ def convert(items):
 data = {
     "updated": datetime.now(timezone.utc).isoformat(),
 
-    "trending": convert(get("trending/movie/week")[:12]),
+    "trending": convert(get("trending/movie/day")[:12]),
 
     "popular": convert(get("movie/popular")[:12]),
 
