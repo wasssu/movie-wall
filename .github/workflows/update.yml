@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-      TMDB_API_KEY: ${{ secrets.TMDB_API_KEY_FOR_MOVIE }}
+      TMDB_API_KEY_FOR_MOVIE: ${{ secrets.TMDB_API_KEY_FOR_MOVIE }}
 
     steps:
       - name: Checkout
