@@ -4,10 +4,10 @@ from datetime import datetime, timezone
 
 import requests
 
-TOKEN = os.getenv("TMDB_API_KEY")
+TOKEN = os.getenv("TMDB_API_KEY_FOR_MOVIE")
 
 if not TOKEN:
-    raise RuntimeError("TMDB_API_KEY secret is missing.")
+    raise RuntimeError("TMDB_API_KEY_FOR_MOVIE secret is missing.")
 
 BASE_URL = "https://api.themoviedb.org/3"
 IMAGE_BASE = "https://image.tmdb.org/t/p/w500"
