@@ -58,9 +58,8 @@ data = {
 
     "popular": convert(get("movie/popular")[:12]),
 
-    "top_rated": convert(get("movie/top_rated")[:12]),
+    "top_rated": convert(get("movie/top_rated")[:12])
 
-    "airing_today": convert(get("movie/airing_today")[:12])
 }
 
 os.makedirs("data", exist_ok=True)
