@@ -1,0 +1,22 @@
+{% if trending.size > 0 %}
+<div class="layout layout--stretch bg--black">
+  <div class="grid grid--cols-2 portrait:grid--cols-2 gap--none">
+    {% for show in trending limit: 2 %}
+      <div class="h--full">
+        <img
+          class="image image--contain image-dither w--full h--full"
+          src="{{ show.poster }}"
+          alt="{{ show.title }}"
+        >
+      </div>
+    {% endfor %}
+  </div>
+</div>
+{% else %} 
+<div class="layout"><span class="title">No shows available</span></div> 
+{% endif %}
+<div class="title_bar">
+  <img class="image" src="data:image/svg+xml;base64,{{ movie_wall_logo | base64_encode }}">
+  <span class="title">Movie Wall</span>
+  <span class="instance">Trending Movies (TMDB)</span>
+</div>
