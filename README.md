@@ -1,2 +1,2 @@
 # movie-wall
-Trending Movies Wall
+Trending Movie Wall (TMDB)
