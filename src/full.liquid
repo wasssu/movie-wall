@@ -1,5 +1,5 @@
 {% if trending.size > 0 %}
-<div class="layout layout--stretch bg--black mb--0">
+<div class="layout layout--stretch bg--black">
   <div class="grid grid--cols-5 portrait:grid--cols-4 gap--none">
     {% for show in trending limit: 12 %}
     <div class="h--full{% if forloop.index > 10 %} hidden portrait:visible{% endif %}">
@@ -15,7 +15,7 @@
 {% else %} 
 <div class="layout"><span class="title">No movies available</span></div> 
 {% endif %}
-<div class="title_bar rounded--none">
+<div class="title_bar">
   <img class="image" src="data:image/svg+xml;base64,{{ movie_wall_logo | base64_encode }}">
   <span class="title">Movie Wall</span>
   <span class="instance">Trending Movies (TMDB)</span>
