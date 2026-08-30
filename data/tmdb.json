@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-30T03:03:47.960201+00:00",
+  "updated": "2026-08-30T15:52:17.269284+00:00",
   "trending": [
     {
       "id": 860508,
       "title": "The Whisper Man",
-      "rating": 6.361,
-      "votes": 97,
+      "rating": 6.3,
+      "votes": 120,
       "overview": "When his young son vanishes, a widower enlists help from his estranged father, a retired detective who put away the serial killer now linked to the case.",
-      "poster": "https://image.tmdb.org/t/p/w500/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/bEETEbxqfqIuvztFwHwkNRSTj8d.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/uauoVKKCkNA9iWjgJCL8TdSfLf5.jpg",
       "release": "2026-08-27"
     },
@@ -15,7 +15,7 @@
       "id": 1368337,
       "title": "The Odyssey",
       "rating": 7.987,
-      "votes": 3304,
+      "votes": 3323,
       "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
       "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
@@ -24,8 +24,8 @@
     {
       "id": 969681,
       "title": "Spider-Man: Brand New Day",
-      "rating": 7.887,
-      "votes": 2263,
+      "rating": 7.888,
+      "votes": 2274,
       "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
       "poster": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/pq1Mhdt9LbkQM5TOjuVZpcczbf.jpg",
@@ -34,28 +34,18 @@
     {
       "id": 1204680,
       "title": "Coyote vs. Acme",
-      "rating": 8.2,
-      "votes": 35,
+      "rating": 7.91,
+      "votes": 39,
       "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
       "poster": "https://image.tmdb.org/t/p/w500/orkLtdgMGiO9rTVMqJ1kKwrnup1.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/viZqGq9TNvQ5uXSD4ahg2RpRONT.jpg",
       "release": "2026-08-20"
     },
     {
-      "id": 1288445,
-      "title": "Mutiny",
-      "rating": 6.349,
-      "votes": 225,
-      "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
-      "poster": "https://image.tmdb.org/t/p/w500/iYhvs0hLGtZZt6qDrUnuM0E1zGM.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/qDa0fqDqIBCovRp975RvtGPcuN3.jpg",
-      "release": "2026-08-19"
-    },
-    {
       "id": 1631807,
       "title": "The Secret Woman",
-      "rating": 6.476,
-      "votes": 21,
+      "rating": 6.5,
+      "votes": 23,
       "overview": "After discovering she has a family and a shipping empire, a woman with amnesia returns to a wealthy and seemingly perfect past to uncover why she left.",
       "poster": "https://image.tmdb.org/t/p/w500/5FC5vUHFz0fbJOd0bhyzJpCSLrc.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/ziOpmyZufqM7IusfThzBr1E9wqa.jpg",
@@ -64,38 +54,48 @@
     {
       "id": 1083381,
       "title": "Backrooms",
-      "rating": 7.079,
-      "votes": 3021,
+      "rating": 7.073,
+      "votes": 3037,
       "overview": "A strange doorway appears in the basement of a furniture showroom.",
       "poster": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
       "release": "2026-05-27"
     },
     {
-      "id": 1516698,
-      "title": "The Last Sunrise",
-      "rating": 7.104,
-      "votes": 48,
-      "overview": "Ry, a college student with a chronic illness, escapes to Mallorca for the summer with her mother, where she unexpectedly falls for a local and begins to embrace living in the moment. But as her condition worsens and long-hidden family secrets come to light, everything she has found before summer's end is threatened.",
-      "poster": "https://image.tmdb.org/t/p/w500/3PWJqDfygN0YNNjWsDUOXclCp3h.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/zFCWfU2ViMIm38G1W8UsnSpqmWn.jpg",
-      "release": "2026-08-26"
+      "id": 1288445,
+      "title": "Mutiny",
+      "rating": 6.4,
+      "votes": 229,
+      "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
+      "poster": "https://image.tmdb.org/t/p/w500/iYhvs0hLGtZZt6qDrUnuM0E1zGM.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/qDa0fqDqIBCovRp975RvtGPcuN3.jpg",
+      "release": "2026-08-19"
     },
     {
       "id": 1339713,
       "title": "Obsession",
-      "rating": 8.204,
-      "votes": 5149,
+      "rating": 8.205,
+      "votes": 5163,
       "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
       "poster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
       "release": "2026-05-13"
     },
     {
+      "id": 1516698,
+      "title": "The Last Sunrise",
+      "rating": 6.962,
+      "votes": 53,
+      "overview": "Ry, a college student with a chronic illness, escapes to Mallorca for the summer with her mother, where she unexpectedly falls for a local and begins to embrace living in the moment. But as her condition worsens and long-hidden family secrets come to light, everything she has found before summer's end is threatened.",
+      "poster": "https://image.tmdb.org/t/p/w500/3PWJqDfygN0YNNjWsDUOXclCp3h.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/zFCWfU2ViMIm38G1W8UsnSpqmWn.jpg",
+      "release": "2026-08-26"
+    },
+    {
       "id": 1084244,
       "title": "Toy Story 5",
-      "rating": 8.267,
-      "votes": 1766,
+      "rating": 8.28,
+      "votes": 1785,
       "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
       "poster": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg",
@@ -104,30 +104,30 @@
     {
       "id": 87513,
       "title": "Motor City",
-      "rating": 6.507,
-      "votes": 75,
+      "rating": 6.6,
+      "votes": 77,
       "overview": "In 1970s Detroit, John Miller falls for a local gangster's girl and lands in prison for a crime he didn't commit. With his life ruined, Miller plots revenge against the man who took his girl away.",
       "poster": "https://image.tmdb.org/t/p/w500/dx2dblJL3GAKcXXXPjC2FSaMTWW.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/4klrlo6mJjUQbT8f2R7fOIHAU0L.jpg",
       "release": "2026-07-23"
     },
     {
-      "id": 1560520,
-      "title": "Batman: Knightfall Part 1: Knightfall",
-      "rating": 9.102,
-      "votes": 123,
-      "overview": "Arkham Asylum has been destroyed, and all its inmates have been unleashed upon Gotham City. As Batman races to round up some of his greatest enemies, he is pushed to his physical and mental limits and into a final confrontation with a new threat: the man called Bane!",
-      "poster": "https://image.tmdb.org/t/p/w500/360qdtu2hLnqMu8SVHMywn420w1.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/caBIySpwuFi2i7ynvHIlnxJLOdN.jpg",
-      "release": "2026-06-23"
+      "id": 1384216,
+      "title": "The Dog Stars",
+      "rating": 6.96,
+      "votes": 100,
+      "overview": "After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gunman he has befriended. When a mysterious transmission comes through on the radio while he’s flying his old Cessna, it sparks a hunt for the provenance of the sound.",
+      "poster": "https://image.tmdb.org/t/p/w500/5O616X9vmRzQdB68PHzBewPittd.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/joVtII9prX3MC4a2LfoKsiMWET3.jpg",
+      "release": "2026-08-26"
     }
   ],
   "popular": [
     {
       "id": 969681,
       "title": "Spider-Man: Brand New Day",
-      "rating": 7.885,
-      "votes": 2257,
+      "rating": 7.9,
+      "votes": 2274,
       "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
       "poster": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/pq1Mhdt9LbkQM5TOjuVZpcczbf.jpg",
@@ -136,8 +136,8 @@
     {
       "id": 1368337,
       "title": "The Odyssey",
-      "rating": 7.987,
-      "votes": 3304,
+      "rating": 7.982,
+      "votes": 3326,
       "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
       "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
@@ -146,38 +146,48 @@
     {
       "id": 1288445,
       "title": "Mutiny",
-      "rating": 6.35,
-      "votes": 224,
+      "rating": 6.352,
+      "votes": 229,
       "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
       "poster": "https://image.tmdb.org/t/p/w500/iYhvs0hLGtZZt6qDrUnuM0E1zGM.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/qDa0fqDqIBCovRp975RvtGPcuN3.jpg",
       "release": "2026-08-19"
     },
     {
-      "id": 1516698,
-      "title": "The Last Sunrise",
-      "rating": 7.2,
-      "votes": 46,
-      "overview": "Ry, a college student with a chronic illness, escapes to Mallorca for the summer with her mother, where she unexpectedly falls for a local and begins to embrace living in the moment. But as her condition worsens and long-hidden family secrets come to light, everything she has found before summer's end is threatened.",
-      "poster": "https://image.tmdb.org/t/p/w500/3PWJqDfygN0YNNjWsDUOXclCp3h.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/zFCWfU2ViMIm38G1W8UsnSpqmWn.jpg",
-      "release": "2026-08-26"
-    },
-    {
       "id": 1621552,
       "title": "Facing El Chapo",
-      "rating": 8.726,
-      "votes": 314,
+      "rating": 8.777,
+      "votes": 350,
       "overview": "Two Mexican officers must survive the final hours of their shift after crossing a ruthless cartel boss.",
       "poster": "https://image.tmdb.org/t/p/w500/alpf5v4UqSFawPmG9RX03Or4BDk.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg",
       "release": "2026-08-21"
     },
     {
+      "id": 1516698,
+      "title": "The Last Sunrise",
+      "rating": 6.962,
+      "votes": 53,
+      "overview": "Ry, a college student with a chronic illness, escapes to Mallorca for the summer with her mother, where she unexpectedly falls for a local and begins to embrace living in the moment. But as her condition worsens and long-hidden family secrets come to light, everything she has found before summer's end is threatened.",
+      "poster": "https://image.tmdb.org/t/p/w500/3PWJqDfygN0YNNjWsDUOXclCp3h.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/zFCWfU2ViMIm38G1W8UsnSpqmWn.jpg",
+      "release": "2026-08-26"
+    },
+    {
+      "id": 1213243,
+      "title": "Toxic: A Fairy Tale for Grown-ups",
+      "rating": 6.8,
+      "votes": 30,
+      "overview": "A powerful drug cartel pulls the strings behind a facade of sun-soaked beaches as a gritty, violent underworld power struggle emerges during the crumbling of Portuguese colonial rule.",
+      "poster": "https://image.tmdb.org/t/p/w500/oiIPU4lvnI0Ag2K9cyAi44eCaoE.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/tBRSSfgqOAq7YlG8udcoJIBm2FG.jpg",
+      "release": "2026-08-26"
+    },
+    {
       "id": 1339713,
       "title": "Obsession",
-      "rating": 8.204,
-      "votes": 5142,
+      "rating": 8.205,
+      "votes": 5163,
       "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
       "poster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
@@ -186,8 +196,8 @@
     {
       "id": 1323244,
       "title": "Rage of Stars",
-      "rating": 5.583,
-      "votes": 48,
+      "rating": 5.48,
+      "votes": 50,
       "overview": "A story about a woman from the International Special Forces Unit, who has a premonition about the impending end of humanity.",
       "poster": "https://image.tmdb.org/t/p/w500/oLld47ZT1I3iecM3OWhIphohQUJ.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/z7lZgL5tzefTfhyRtouThFhsuUS.jpg",
@@ -196,32 +206,22 @@
     {
       "id": 1084244,
       "title": "Toy Story 5",
-      "rating": 8.262,
-      "votes": 1758,
+      "rating": 8.28,
+      "votes": 1785,
       "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
       "poster": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg",
       "release": "2026-06-17"
     },
     {
-      "id": 1213243,
-      "title": "Toxic: A Fairy Tale for Grown-ups",
-      "rating": 6.842,
-      "votes": 19,
-      "overview": "A powerful drug cartel pulls the strings behind a facade of sun-soaked beaches as a gritty, violent underworld power struggle emerges during the crumbling of Portuguese colonial rule.",
-      "poster": "https://image.tmdb.org/t/p/w500/oiIPU4lvnI0Ag2K9cyAi44eCaoE.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/tBRSSfgqOAq7YlG8udcoJIBm2FG.jpg",
-      "release": "2026-08-26"
-    },
-    {
-      "id": 1108427,
-      "title": "Moana",
-      "rating": 6.134,
-      "votes": 247,
-      "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
-      "poster": "https://image.tmdb.org/t/p/w500/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
-      "release": "2026-07-08"
+      "id": 1232569,
+      "title": "Pinocchio: Unstrung",
+      "rating": 6.8,
+      "votes": 67,
+      "overview": "Influenced by a sinister Cricket and created by Geppetto, Pinocchio launches a violent crusade to carve himself into a real boy like his brother James, one piece at a time.",
+      "poster": "https://image.tmdb.org/t/p/w500/eUJXk3bTvLBi5Zcb0BCedZU7lVL.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/dNKFETDDujxm2PUN873Jwiw5VML.jpg",
+      "release": "2026-07-22"
     },
     {
       "id": 1285366,
@@ -234,22 +234,22 @@
       "release": "2024-07-06"
     },
     {
-      "id": 1232569,
-      "title": "Pinocchio: Unstrung",
-      "rating": 6.754,
-      "votes": 67,
-      "overview": "Influenced by a sinister Cricket and created by Geppetto, Pinocchio launches a violent crusade to carve himself into a real boy like his brother James, one piece at a time.",
-      "poster": "https://image.tmdb.org/t/p/w500/eUJXk3bTvLBi5Zcb0BCedZU7lVL.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/dNKFETDDujxm2PUN873Jwiw5VML.jpg",
-      "release": "2026-07-22"
+      "id": 860508,
+      "title": "The Whisper Man",
+      "rating": 6.289,
+      "votes": 121,
+      "overview": "When his young son vanishes, a widower enlists help from his estranged father, a retired detective who put away the serial killer now linked to the case.",
+      "poster": "https://image.tmdb.org/t/p/w500/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/uauoVKKCkNA9iWjgJCL8TdSfLf5.jpg",
+      "release": "2026-08-27"
     }
   ],
   "top_rated": [
     {
       "id": 980431,
       "title": "Avatar Aang: The Last Airbender",
-      "rating": 9.193,
-      "votes": 1009,
+      "rating": 9.192,
+      "votes": 1012,
       "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
       "poster": "https://image.tmdb.org/t/p/w500/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
@@ -259,7 +259,7 @@
       "id": 1007757,
       "title": "Swapped",
       "rating": 8.874,
-      "votes": 2143,
+      "votes": 2144,
       "overview": "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifetime to switch back. Their journey soon uncovers a greater threat—one that could endanger not only their species, but the entire valley they call home.",
       "poster": "https://image.tmdb.org/t/p/w500/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
@@ -278,8 +278,8 @@
     {
       "id": 1311031,
       "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
-      "rating": 8.777,
-      "votes": 2010,
+      "rating": 8.78,
+      "votes": 2017,
       "overview": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
       "poster": "https://image.tmdb.org/t/p/w500/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
@@ -288,8 +288,8 @@
     {
       "id": 278,
       "title": "The Shawshank Redemption",
-      "rating": 8.7,
-      "votes": 31170,
+      "rating": 8.728,
+      "votes": 31172,
       "overview": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
       "poster": "https://image.tmdb.org/t/p/w500/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/pNjh59JSxChQktamG3LMp9ZoQzp.jpg",
@@ -298,8 +298,8 @@
     {
       "id": 1621552,
       "title": "Facing El Chapo",
-      "rating": 8.73,
-      "votes": 322,
+      "rating": 8.785,
+      "votes": 349,
       "overview": "Two Mexican officers must survive the final hours of their shift after crossing a ruthless cartel boss.",
       "poster": "https://image.tmdb.org/t/p/w500/alpf5v4UqSFawPmG9RX03Or4BDk.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg",
@@ -318,8 +318,8 @@
     {
       "id": 936075,
       "title": "Michael",
-      "rating": 8.662,
-      "votes": 4204,
+      "rating": 8.7,
+      "votes": 4209,
       "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
       "poster": "https://image.tmdb.org/t/p/w500/2AvgnCwCakNiJqWZqaQhdGjWNey.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg",
@@ -328,8 +328,8 @@
     {
       "id": 687163,
       "title": "Project Hail Mary",
-      "rating": 8.6,
-      "votes": 7421,
+      "rating": 8.647,
+      "votes": 7429,
       "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
       "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
@@ -346,16 +346,6 @@
       "release": "1974-12-20"
     },
     {
-      "id": 424,
-      "title": "Schindler's List",
-      "rating": 8.6,
-      "votes": 17813,
-      "overview": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
-      "poster": "https://image.tmdb.org/t/p/w500/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
-      "release": "1993-12-15"
-    },
-    {
       "id": 389,
       "title": "12 Angry Men",
       "rating": 8.6,
@@ -364,6 +354,16 @@
       "poster": "https://image.tmdb.org/t/p/w500/ppd84D2i9W8jXmsyInGyihiSyqz.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/qqHQsStV6exghCM7zbObuYBiYxw.jpg",
       "release": "1957-04-10"
+    },
+    {
+      "id": 424,
+      "title": "Schindler's List",
+      "rating": 8.569,
+      "votes": 17818,
+      "overview": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
+      "poster": "https://image.tmdb.org/t/p/w500/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
+      "release": "1993-12-15"
     }
   ]
 }
