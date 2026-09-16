@@ -1,95 +1,35 @@
 {
-  "updated": "2026-09-15T16:02:49.351040+00:00",
+  "updated": "2026-09-16T02:52:29.258375+00:00",
   "trending": [
     {
       "id": 1101383,
       "title": "The End of Oak Street",
-      "rating": 6.6,
-      "votes": 666,
+      "rating": 6.652,
+      "votes": 751,
       "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
       "poster": "https://image.tmdb.org/t/p/w500/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
       "release": "2026-08-12"
     },
     {
+      "id": 1124142,
+      "title": "The Rivals of Amziah King",
+      "rating": 6.7,
+      "votes": 43,
+      "overview": "Deep within the backwoods of rural Oklahoma, charismatic and musically gifted Amziah King herds a bluegrass-playing band of misfits while overseeing the premier honey-making operation in town. When Amziah’s estranged foster daughter unexpectedly returns, Amziah leaps at the possibility to renew connection and create a family business. But the honey game is ruthless, and Amziah’s rivals threaten to destroy everything he has built.",
+      "poster": "https://image.tmdb.org/t/p/w500/3iVDCDS1VwHIm95PjWEPwsfdhaf.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/nBSlvQrDX60rmngwcxMeMq33I9m.jpg",
+      "release": "2026-08-13"
+    },
+    {
       "id": 1423191,
       "title": "Resident Evil",
-      "rating": 9.2,
-      "votes": 4,
+      "rating": 8.4,
+      "votes": 8,
       "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
       "poster": "https://image.tmdb.org/t/p/w500/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
       "release": "2026-09-16"
-    },
-    {
-      "id": 1124142,
-      "title": "The Rivals of Amziah King",
-      "rating": 6.6,
-      "votes": 38,
-      "overview": "Deep within the backwoods of rural Oklahoma, charismatic and musically gifted Amziah King herds a bluegrass-playing band of misfits while overseeing the premier honey-making operation in town. When Amziah’s estranged foster daughter unexpectedly returns, Amziah leaps at the possibility to renew connection and create a family business. But the honey game is ruthless, and Amziah’s rivals threaten to destroy everything he has built.",
-      "poster": "https://image.tmdb.org/t/p/w500/xAdcsPCcW3I0bS4zUwDHWWZjSpd.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/u7LyRaW7shhQrl1BRLAavEQYMIm.jpg",
-      "release": "2026-08-13"
-    },
-    {
-      "id": 1204680,
-      "title": "Coyote vs. Acme",
-      "rating": 7.6,
-      "votes": 386,
-      "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
-      "poster": "https://image.tmdb.org/t/p/w500/vhv7lBWYM0DUuNU2a0V7Rhq21dD.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/7GOW6jod9lLurW5utokAatxg7ql.jpg",
-      "release": "2026-08-20"
-    },
-    {
-      "id": 969681,
-      "title": "Spider-Man: Brand New Day",
-      "rating": 7.85,
-      "votes": 2690,
-      "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-      "poster": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
-      "release": "2026-07-29"
-    },
-    {
-      "id": 1058424,
-      "title": "Hope",
-      "rating": 7.8,
-      "votes": 53,
-      "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
-      "poster": "https://image.tmdb.org/t/p/w500/1n37BJchWHLiSYQkuFxe5KjB951.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/hrCTKrc3Tz2wbPOt5rcrlAhqF11.jpg",
-      "release": "2026-07-15"
-    },
-    {
-      "id": 1368337,
-      "title": "The Odyssey",
-      "rating": 8.007,
-      "votes": 3713,
-      "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
-      "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/iuylzRSllrGn7YB322kwKoOVMcq.jpg",
-      "release": "2026-07-15"
-    },
-    {
-      "id": 1302904,
-      "title": "Practical Magic 2",
-      "rating": 6.1,
-      "votes": 46,
-      "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
-      "poster": "https://image.tmdb.org/t/p/w500/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/nUcauJ000dFBYkgGpxyxJ5aWEH2.jpg",
-      "release": "2026-09-09"
-    },
-    {
-      "id": 1108427,
-      "title": "Moana",
-      "rating": 7.239,
-      "votes": 631,
-      "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
-      "poster": "https://image.tmdb.org/t/p/w500/s20ZqOKFqGVWOUtDz9XurwwBoF1.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
-      "release": "2026-07-08"
     },
     {
       "id": 1318467,
@@ -102,6 +42,46 @@
       "release": "2026-09-15"
     },
     {
+      "id": 969681,
+      "title": "Spider-Man: Brand New Day",
+      "rating": 7.8,
+      "votes": 2698,
+      "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+      "poster": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
+      "release": "2026-07-29"
+    },
+    {
+      "id": 1108427,
+      "title": "Moana",
+      "rating": 7.261,
+      "votes": 639,
+      "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
+      "poster": "https://image.tmdb.org/t/p/w500/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
+      "release": "2026-07-08"
+    },
+    {
+      "id": 1204680,
+      "title": "Coyote vs. Acme",
+      "rating": 7.596,
+      "votes": 396,
+      "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
+      "poster": "https://image.tmdb.org/t/p/w500/vhv7lBWYM0DUuNU2a0V7Rhq21dD.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/7GOW6jod9lLurW5utokAatxg7ql.jpg",
+      "release": "2026-08-20"
+    },
+    {
+      "id": 1302904,
+      "title": "Practical Magic 2",
+      "rating": 6.073,
+      "votes": 48,
+      "overview": "The Owens sisters must confront the dark curse that threatens to unravel their family once and for all.",
+      "poster": "https://image.tmdb.org/t/p/w500/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/nUcauJ000dFBYkgGpxyxJ5aWEH2.jpg",
+      "release": "2026-09-09"
+    },
+    {
       "id": 1432474,
       "title": "Nimrods",
       "rating": 7.1,
@@ -112,14 +92,34 @@
       "release": "2026-08-06"
     },
     {
+      "id": 1288445,
+      "title": "Mutiny",
+      "rating": 6.451,
+      "votes": 400,
+      "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
+      "poster": "https://image.tmdb.org/t/p/w500/pu2VxGlpGwffOx292w18b1tv96j.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
+      "release": "2026-08-19"
+    },
+    {
       "id": 1137844,
       "title": "Mayday",
-      "rating": 7.943,
-      "votes": 594,
+      "rating": 7.963,
+      "votes": 606,
       "overview": "When a U.S. Navy pilot on a top-secret mission during the Cold War gets trapped behind enemy lines, his only chance at survival is to form an alliance with an eccentric ex-KGB agent.",
       "poster": "https://image.tmdb.org/t/p/w500/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/g7Ccid5kuD7A8hXWlsQiNfwOxaD.jpg",
       "release": "2026-09-03"
+    },
+    {
+      "id": 1058424,
+      "title": "Hope",
+      "rating": 7.768,
+      "votes": 56,
+      "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
+      "poster": "https://image.tmdb.org/t/p/w500/1n37BJchWHLiSYQkuFxe5KjB951.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/hrCTKrc3Tz2wbPOt5rcrlAhqF11.jpg",
+      "release": "2026-07-15"
     }
   ],
   "popular": [
@@ -127,7 +127,7 @@
       "id": 969681,
       "title": "Spider-Man: Brand New Day",
       "rating": 7.85,
-      "votes": 2689,
+      "votes": 2697,
       "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
       "poster": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
@@ -136,8 +136,8 @@
     {
       "id": 1204680,
       "title": "Coyote vs. Acme",
-      "rating": 7.6,
-      "votes": 384,
+      "rating": 7.61,
+      "votes": 390,
       "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
       "poster": "https://image.tmdb.org/t/p/w500/vhv7lBWYM0DUuNU2a0V7Rhq21dD.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/7GOW6jod9lLurW5utokAatxg7ql.jpg",
@@ -146,8 +146,8 @@
     {
       "id": 1375646,
       "title": "Colony",
-      "rating": 8.09,
-      "votes": 791,
+      "rating": 8.093,
+      "votes": 792,
       "overview": "Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations.",
       "poster": "https://image.tmdb.org/t/p/w500/tN799oUR0f1gUKDYdMNrDaY7I51.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/hpBGCnzOvdtQoMyE48gvwp2y5yx.jpg",
@@ -156,22 +156,12 @@
     {
       "id": 1368337,
       "title": "The Odyssey",
-      "rating": 8.007,
-      "votes": 3711,
+      "rating": 8.008,
+      "votes": 3719,
       "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
       "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/iuylzRSllrGn7YB322kwKoOVMcq.jpg",
       "release": "2026-07-15"
-    },
-    {
-      "id": 1288445,
-      "title": "Mutiny",
-      "rating": 6.438,
-      "votes": 398,
-      "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
-      "poster": "https://image.tmdb.org/t/p/w500/pu2VxGlpGwffOx292w18b1tv96j.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
-      "release": "2026-08-19"
     },
     {
       "id": 1294189,
@@ -184,21 +174,41 @@
       "release": "2026-10-29"
     },
     {
+      "id": 1288445,
+      "title": "Mutiny",
+      "rating": 6.447,
+      "votes": 399,
+      "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
+      "poster": "https://image.tmdb.org/t/p/w500/pu2VxGlpGwffOx292w18b1tv96j.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
+      "release": "2026-08-19"
+    },
+    {
       "id": 1108427,
       "title": "Moana",
-      "rating": 7.2,
-      "votes": 629,
+      "rating": 7.242,
+      "votes": 633,
       "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
-      "poster": "https://image.tmdb.org/t/p/w500/s20ZqOKFqGVWOUtDz9XurwwBoF1.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
       "release": "2026-07-08"
     },
     {
+      "id": 1101383,
+      "title": "The End of Oak Street",
+      "rating": 6.59,
+      "votes": 709,
+      "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
+      "poster": "https://image.tmdb.org/t/p/w500/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
+      "release": "2026-08-12"
+    },
+    {
       "id": 1440098,
       "title": "Drawn Together",
-      "rating": 6.6,
-      "votes": 71,
-      "overview": "After a wealthy Spanish heiress is kidnapped, she falls into a dangerous attraction with the newly hired bodyguard assigned to protect her in a world full of deception.",
+      "rating": 6.645,
+      "votes": 76,
+      "overview": "Marfil, daughter of a powerful Spanish businessman, sees her life in New York turned upside down when she is kidnapped and released without explanation. Her father hires Sebastian Moore as bodyguard and, forced to spend every minute together, an inevitable attraction ignites in a world where nothing is as it seems.",
       "poster": "https://image.tmdb.org/t/p/w500/6rpvddXbaQPOi0fB2HKWbZ3uUSg.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/i65y7cMae36K0giN0GRaMjAHUru.jpg",
       "release": "2026-09-09"
@@ -206,50 +216,50 @@
     {
       "id": 1386315,
       "title": "The Runner",
-      "rating": 6.777,
-      "votes": 470,
+      "rating": 6.789,
+      "votes": 475,
       "overview": "Maia Marten, a brilliant London lawyer, has her life shattered by a single call on her morning run: her son has been taken. To get him back, she must keep running, obey every ruthless command, and trust no one-each second a test of how far a mother will go to save her child.",
       "poster": "https://image.tmdb.org/t/p/w500/uxCaBoYXsDC4A0SqTm3SISj0OwK.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/jzBWExXacS33rMQ2zLBrqIVweyG.jpg",
       "release": "2026-09-03"
     },
     {
-      "id": 1393326,
-      "title": "Ghost in the Cell",
-      "rating": 7.308,
-      "votes": 60,
-      "overview": "In a notorious prison, an invisible force begins killing inmates brutally, compelling enemy gangs and corrupt guards to work together as they try to survive the mounting bloodshed.",
-      "poster": "https://image.tmdb.org/t/p/w500/zxcMdx0w5Zmg8yZuuiS7CJ8vOea.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/tK3QdOOrX4qEkmSlvrmc8cK7iOU.jpg",
-      "release": "2026-04-16"
-    },
-    {
-      "id": 1285366,
-      "title": "Shape of My Heart",
-      "rating": 5.357,
-      "votes": 7,
-      "overview": "A romance about a man and a woman who, due to an unexpected event, end up switching bodies. Despite coming from completely different backgrounds and environments, the two try to overcome the various difficulties that arise from their body swap.",
-      "poster": "https://image.tmdb.org/t/p/w500/3r0O6BW9USoZ9mteCVyNKMQriRL.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/yjK3ardrgdS8suZG8KMU82Q7U38.jpg",
-      "release": "2024-07-06"
-    },
-    {
       "id": 1137844,
       "title": "Mayday",
-      "rating": 7.943,
-      "votes": 593,
+      "rating": 7.951,
+      "votes": 600,
       "overview": "When a U.S. Navy pilot on a top-secret mission during the Cold War gets trapped behind enemy lines, his only chance at survival is to form an alliance with an eccentric ex-KGB agent.",
       "poster": "https://image.tmdb.org/t/p/w500/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/g7Ccid5kuD7A8hXWlsQiNfwOxaD.jpg",
       "release": "2026-09-03"
+    },
+    {
+      "id": 1393326,
+      "title": "Ghost in the Cell",
+      "rating": 7.205,
+      "votes": 61,
+      "overview": "In a notorious prison, an invisible force begins killing inmates brutally, compelling enemy gangs and corrupt guards to work together as they try to survive the mounting bloodshed.",
+      "poster": "https://image.tmdb.org/t/p/w500/zxcMdx0w5Zmg8yZuuiS7CJ8vOea.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/tK3QdOOrX4qEkmSlvrmc8cK7iOU.jpg",
+      "release": "2026-04-16"
     }
   ],
   "top_rated": [
     {
+      "id": 1560520,
+      "title": "Batman: Knightfall Part 1: Knightfall",
+      "rating": 9.167,
+      "votes": 309,
+      "overview": "Arkham Asylum has been destroyed, and all its inmates have been unleashed upon Gotham City. As Batman races to round up some of his greatest enemies, he is pushed to his physical and mental limits and into a final confrontation with a new threat: the man called Bane!",
+      "poster": "https://image.tmdb.org/t/p/w500/360qdtu2hLnqMu8SVHMywn420w1.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/caBIySpwuFi2i7ynvHIlnxJLOdN.jpg",
+      "release": "2026-06-23"
+    },
+    {
       "id": 980431,
       "title": "Avatar Aang: The Last Airbender",
-      "rating": 9.1,
-      "votes": 1125,
+      "rating": 9.139,
+      "votes": 1127,
       "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
       "poster": "https://image.tmdb.org/t/p/w500/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
@@ -269,7 +279,7 @@
       "id": 1632181,
       "title": "Accidental Partners",
       "rating": 8.855,
-      "votes": 379,
+      "votes": 380,
       "overview": "Two women discover they were both scammed by the same man (who also got them pregnant). They form an alliance to take revenge.",
       "poster": "https://image.tmdb.org/t/p/w500/j0CIVzeR7hRAPBPGR54qDZoOQpp.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/iCML6fBe3X0y06P33bM7dyYXPKZ.jpg",
@@ -278,8 +288,8 @@
     {
       "id": 1621552,
       "title": "Facing El Chapo",
-      "rating": 8.844,
-      "votes": 667,
+      "rating": 8.837,
+      "votes": 670,
       "overview": "Two Mexican officers must survive the final hours of their shift after crossing a ruthless cartel boss.",
       "poster": "https://image.tmdb.org/t/p/w500/alpf5v4UqSFawPmG9RX03Or4BDk.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg",
@@ -288,8 +298,8 @@
     {
       "id": 1311031,
       "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
-      "rating": 8.787,
-      "votes": 2129,
+      "rating": 8.788,
+      "votes": 2133,
       "overview": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
       "poster": "https://image.tmdb.org/t/p/w500/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
@@ -299,7 +309,7 @@
       "id": 278,
       "title": "The Shawshank Redemption",
       "rating": 8.731,
-      "votes": 31324,
+      "votes": 31326,
       "overview": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
       "poster": "https://image.tmdb.org/t/p/w500/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/v8xVDqt8uCul3c3mgx4VpGCwxJC.jpg",
@@ -308,8 +318,8 @@
     {
       "id": 238,
       "title": "The Godfather",
-      "rating": 8.687,
-      "votes": 23560,
+      "rating": 8.7,
+      "votes": 23563,
       "overview": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
       "poster": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/tSPT36ZKlP2WVHJLM4cQPLSzv3b.jpg",
@@ -319,7 +329,7 @@
       "id": 687163,
       "title": "Project Hail Mary",
       "rating": 8.64,
-      "votes": 7756,
+      "votes": 7761,
       "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
       "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/2I1OFQJ0L9T0dpU6FobKFWV2PxX.jpg",
@@ -329,7 +339,7 @@
       "id": 936075,
       "title": "Michael",
       "rating": 8.639,
-      "votes": 4337,
+      "votes": 4338,
       "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
       "poster": "https://image.tmdb.org/t/p/w500/dueFqKLvjftnELZaGYwY7xinfaI.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg",
@@ -349,21 +359,11 @@
       "id": 240,
       "title": "The Godfather Part II",
       "rating": 8.6,
-      "votes": 14325,
+      "votes": 14326,
       "overview": "In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.",
       "poster": "https://image.tmdb.org/t/p/w500/sSuQTCZwqKrNBNIsksO9IAUoWP9.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/kGzFbGhp99zva6oZODW5atUtnqi.jpg",
       "release": "1974-12-20"
-    },
-    {
-      "id": 389,
-      "title": "12 Angry Men",
-      "rating": 8.571,
-      "votes": 10358,
-      "overview": "The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young Spanish-American is guilty or innocent of murdering his father. What begins as an open and shut case soon becomes a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other.",
-      "poster": "https://image.tmdb.org/t/p/w500/zhG3vKWyDRaZYoaww1UVAi29T9h.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/qqHQsStV6exghCM7zbObuYBiYxw.jpg",
-      "release": "1957-04-10"
     }
   ]
 }
