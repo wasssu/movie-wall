@@ -1,11 +1,11 @@
 {
-  "updated": "2026-09-28T19:06:12.735095+00:00",
+  "updated": "2026-09-29T03:44:43.695137+00:00",
   "trending": [
     {
       "id": 1377237,
       "title": "Runner",
-      "rating": 7.69,
-      "votes": 58,
+      "rating": 7.9,
+      "votes": 80,
       "overview": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.",
       "poster": "https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
@@ -18,28 +18,58 @@
       "votes": 7,
       "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
       "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/u3EtxdmZeiliW98c5Oegk5LIGZa.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/4A3r1AjJg9Wa6ms3MGOScetCY0o.jpg",
       "release": "2026-09-30"
+    },
+    {
+      "id": 1423191,
+      "title": "Resident Evil",
+      "rating": 7.342,
+      "votes": 581,
+      "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
+      "poster": "https://image.tmdb.org/t/p/w500/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+      "release": "2026-09-16"
     },
     {
       "id": 1492640,
       "title": "UNABOMBER",
-      "rating": 7.0,
-      "votes": 158,
+      "rating": 6.97,
+      "votes": 168,
       "overview": "Follow Ted Kaczynski's transformation from Harvard prodigy into the infamous Unabomber. Subjected to controversial psychological experiments by Professor Henry Murray, Kaczynski's troubled past resurfaces decades later when his manhunt, led by FBI agent Joanne Miller, brings to light the chilling consequences of ambition and isolation.",
       "poster": "https://image.tmdb.org/t/p/w500/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
       "release": "2026-09-25"
     },
     {
-      "id": 1423191,
-      "title": "Resident Evil",
-      "rating": 7.3,
-      "votes": 564,
-      "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
-      "poster": "https://image.tmdb.org/t/p/w500/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
-      "release": "2026-09-16"
+      "id": 969681,
+      "title": "Spider-Man: Brand New Day",
+      "rating": 7.864,
+      "votes": 2928,
+      "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+      "poster": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
+      "release": "2026-07-29"
+    },
+    {
+      "id": 1003596,
+      "title": "Avengers: Doomsday",
+      "rating": 0.0,
+      "votes": 0,
+      "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
+      "poster": "https://image.tmdb.org/t/p/w500/40jN1UgNAYEkGt2M0i81ghLF3cc.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/s4v0UX1anfXm0UvloLsTTJ4v222.jpg",
+      "release": "2026-12-15"
+    },
+    {
+      "id": 1339713,
+      "title": "Obsession",
+      "rating": 8.189,
+      "votes": 5808,
+      "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+      "poster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/uoTZOIXnkcTgJe1emITpsQq7sPu.jpg",
+      "release": "2026-05-13"
     },
     {
       "id": 1283515,
@@ -54,8 +84,8 @@
     {
       "id": 1263337,
       "title": "Heart of the Beast",
-      "rating": 7.7,
-      "votes": 112,
+      "rating": 7.658,
+      "votes": 120,
       "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
       "poster": "https://image.tmdb.org/t/p/w500/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
@@ -64,70 +94,40 @@
     {
       "id": 1375441,
       "title": "Primetime",
-      "rating": 7.2,
-      "votes": 51,
+      "rating": 7.3,
+      "votes": 55,
       "overview": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controversial cultural phenomena of the decade.",
       "poster": "https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/4E5RVsSUG1A4Adwbqupu5w6kofZ.jpg",
       "release": "2026-09-23"
     },
     {
-      "id": 1003596,
-      "title": "Avengers: Doomsday",
-      "rating": 0.0,
-      "votes": 0,
-      "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
-      "poster": "https://image.tmdb.org/t/p/w500/40jN1UgNAYEkGt2M0i81ghLF3cc.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/s4v0UX1anfXm0UvloLsTTJ4v222.jpg",
-      "release": "2026-12-15"
-    },
-    {
-      "id": 969681,
-      "title": "Spider-Man: Brand New Day",
-      "rating": 7.9,
-      "votes": 2926,
-      "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-      "poster": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
-      "release": "2026-07-29"
-    },
-    {
-      "id": 1339713,
-      "title": "Obsession",
-      "rating": 8.189,
-      "votes": 5804,
-      "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-      "poster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/uoTZOIXnkcTgJe1emITpsQq7sPu.jpg",
-      "release": "2026-05-13"
-    },
-    {
-      "id": 1032863,
-      "title": "The Love Hypothesis",
-      "rating": 8.2,
-      "votes": 329,
-      "overview": "Olive Smith, a biology PhD candidate, and Dr. Adam Carlsen, a hotshot professor and well-known tyrant, enter into a fake relationship, seeing each of their carefully calculated theories on love get thrown into chaos.",
-      "poster": "https://image.tmdb.org/t/p/w500/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
-      "release": "2026-09-23"
-    },
-    {
       "id": 1375646,
       "title": "Colony",
-      "rating": 8.1,
-      "votes": 910,
+      "rating": 8.08,
+      "votes": 938,
       "overview": "Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations.",
       "poster": "https://image.tmdb.org/t/p/w500/tN799oUR0f1gUKDYdMNrDaY7I51.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/hpBGCnzOvdtQoMyE48gvwp2y5yx.jpg",
       "release": "2026-05-21"
+    },
+    {
+      "id": 1465063,
+      "title": "Forgotten Island",
+      "rating": 8.2,
+      "votes": 30,
+      "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.",
+      "poster": "https://image.tmdb.org/t/p/w500/Lr0Ng7Gg02RW1AyfYEL6P0WUvd.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
+      "release": "2026-09-10"
     }
   ],
   "popular": [
     {
       "id": 969681,
       "title": "Spider-Man: Brand New Day",
-      "rating": 7.865,
-      "votes": 2924,
+      "rating": 7.9,
+      "votes": 2927,
       "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
       "poster": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
@@ -136,8 +136,8 @@
     {
       "id": 1423191,
       "title": "Resident Evil",
-      "rating": 7.3,
-      "votes": 559,
+      "rating": 7.341,
+      "votes": 580,
       "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
       "poster": "https://image.tmdb.org/t/p/w500/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
@@ -146,38 +146,38 @@
     {
       "id": 1101383,
       "title": "The End of Oak Street",
-      "rating": 7.047,
-      "votes": 1653,
+      "rating": 7.055,
+      "votes": 1672,
       "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
       "poster": "https://image.tmdb.org/t/p/w500/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
       "release": "2026-08-12"
     },
     {
-      "id": 1204680,
-      "title": "Coyote vs. Acme",
-      "rating": 7.555,
-      "votes": 550,
-      "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
-      "poster": "https://image.tmdb.org/t/p/w500/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/viZqGq9TNvQ5uXSD4ahg2RpRONT.jpg",
-      "release": "2026-08-17"
-    },
-    {
       "id": 1368337,
       "title": "The Odyssey",
-      "rating": 8.019,
-      "votes": 3953,
+      "rating": 8.018,
+      "votes": 3961,
       "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
       "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/bulFtfy3oBQtCnAMSi7g6DSSds3.jpg",
       "release": "2026-07-15"
     },
     {
+      "id": 1204680,
+      "title": "Coyote vs. Acme",
+      "rating": 7.556,
+      "votes": 551,
+      "overview": "After Acme products fail him one too many times in his dogged pursuit of the Roadrunner, Wile E. Coyote decides to hire a billboard lawyer to sue the Acme Corporation.",
+      "poster": "https://image.tmdb.org/t/p/w500/kYDCl2y0VPvhT5eYWbMRInPoB03.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/viZqGq9TNvQ5uXSD4ahg2RpRONT.jpg",
+      "release": "2026-08-17"
+    },
+    {
       "id": 1032863,
       "title": "The Love Hypothesis",
-      "rating": 8.196,
-      "votes": 326,
+      "rating": 8.141,
+      "votes": 350,
       "overview": "Olive Smith, a biology PhD candidate, and Dr. Adam Carlsen, a hotshot professor and well-known tyrant, enter into a fake relationship, seeing each of their carefully calculated theories on love get thrown into chaos.",
       "poster": "https://image.tmdb.org/t/p/w500/vfZxVHextAGC70zrNhS8lsROqP1.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
@@ -194,30 +194,10 @@
       "release": "2026-10-29"
     },
     {
-      "id": 1375646,
-      "title": "Colony",
-      "rating": 8.054,
-      "votes": 906,
-      "overview": "Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations.",
-      "poster": "https://image.tmdb.org/t/p/w500/tN799oUR0f1gUKDYdMNrDaY7I51.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/hpBGCnzOvdtQoMyE48gvwp2y5yx.jpg",
-      "release": "2026-05-21"
-    },
-    {
-      "id": 1288445,
-      "title": "Mutiny",
-      "rating": 7.275,
-      "votes": 677,
-      "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
-      "poster": "https://image.tmdb.org/t/p/w500/pu2VxGlpGwffOx292w18b1tv96j.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
-      "release": "2026-08-19"
-    },
-    {
       "id": 1751701,
       "title": "After Impact",
-      "rating": 6.281,
-      "votes": 16,
+      "rating": 6.441,
+      "votes": 17,
       "overview": "After losing his father, Ethan Nichols inherits one of the largest greenhouses in the country, just as the world faces a devastating threat from an approaching asteroid. As society begins to unravel, Ethan grapples with personal betrayal, overwhelming loneliness, and the growing fear that survival may come at the cost of his humanity. Seeking refuge in his family’s bunker, Ethan endures the harsh aftermath of the impact, wrestling with physical injury and emotional despair. When a faint voice crackles over his radio, Ethan discovers he's not as alone as he believed.",
       "poster": "https://image.tmdb.org/t/p/w500/yzDuAQCY2n6zzOlBkn6JzhLhY3k.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/k22XyPbce7zvzzf5OnT4uaY8ZD1.jpg",
@@ -226,30 +206,50 @@
     {
       "id": 1228834,
       "title": "The Fix",
-      "rating": 7.015,
-      "votes": 34,
+      "rating": 7.153,
+      "votes": 36,
       "overview": "Disillusioned by the end of the war in Afghanistan, a group of disgraced, war-torn ex-CIA operatives set out to Tehran to take down a life-changing score.",
       "poster": "https://image.tmdb.org/t/p/w500/9iSkee8DPpwBQI3GhXSTGZJKNYM.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg",
       "release": "2026-09-10"
     },
     {
-      "id": 1263337,
-      "title": "Heart of the Beast",
-      "rating": 7.703,
-      "votes": 111,
-      "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
-      "poster": "https://image.tmdb.org/t/p/w500/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
-      "release": "2026-09-19"
+      "id": 1288445,
+      "title": "Mutiny",
+      "rating": 7.31,
+      "votes": 689,
+      "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
+      "poster": "https://image.tmdb.org/t/p/w500/pu2VxGlpGwffOx292w18b1tv96j.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
+      "release": "2026-08-19"
+    },
+    {
+      "id": 1375646,
+      "title": "Colony",
+      "rating": 8.074,
+      "votes": 935,
+      "overview": "Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations.",
+      "poster": "https://image.tmdb.org/t/p/w500/tN799oUR0f1gUKDYdMNrDaY7I51.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/hpBGCnzOvdtQoMyE48gvwp2y5yx.jpg",
+      "release": "2026-05-21"
+    },
+    {
+      "id": 1084244,
+      "title": "Toy Story 5",
+      "rating": 8.316,
+      "votes": 2404,
+      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+      "poster": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/4D1pdB27uph7J8HQzNf8QvvH9bn.jpg",
+      "release": "2026-06-17"
     }
   ],
   "top_rated": [
     {
       "id": 1560520,
       "title": "Batman: Knightfall Part 1: Knightfall",
-      "rating": 9.2,
-      "votes": 395,
+      "rating": 9.16,
+      "votes": 399,
       "overview": "Arkham Asylum has been destroyed, and all its inmates have been unleashed upon Gotham City. As Batman races to round up some of his greatest enemies, he is pushed to his physical and mental limits and into a final confrontation with a new threat: the man called Bane!",
       "poster": "https://image.tmdb.org/t/p/w500/360qdtu2hLnqMu8SVHMywn420w1.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/caBIySpwuFi2i7ynvHIlnxJLOdN.jpg",
@@ -258,8 +258,8 @@
     {
       "id": 980431,
       "title": "Avatar Aang: The Last Airbender",
-      "rating": 9.1,
-      "votes": 1207,
+      "rating": 9.144,
+      "votes": 1209,
       "overview": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
       "poster": "https://image.tmdb.org/t/p/w500/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg",
@@ -268,7 +268,7 @@
     {
       "id": 1007757,
       "title": "Swapped",
-      "rating": 8.9,
+      "rating": 8.865,
       "votes": 2211,
       "overview": "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifetime to switch back. Their journey soon uncovers a greater threat—one that could endanger not only their species, but the entire valley they call home.",
       "poster": "https://image.tmdb.org/t/p/w500/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
@@ -298,8 +298,8 @@
     {
       "id": 1311031,
       "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
-      "rating": 8.8,
-      "votes": 2198,
+      "rating": 8.795,
+      "votes": 2200,
       "overview": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
       "poster": "https://image.tmdb.org/t/p/w500/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
@@ -308,8 +308,8 @@
     {
       "id": 278,
       "title": "The Shawshank Redemption",
-      "rating": 8.7,
-      "votes": 31444,
+      "rating": 8.731,
+      "votes": 31448,
       "overview": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
       "poster": "https://image.tmdb.org/t/p/w500/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/pNjh59JSxChQktamG3LMp9ZoQzp.jpg",
@@ -318,8 +318,8 @@
     {
       "id": 238,
       "title": "The Godfather",
-      "rating": 8.7,
-      "votes": 23654,
+      "rating": 8.688,
+      "votes": 23656,
       "overview": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
       "poster": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/tSPT36ZKlP2WVHJLM4cQPLSzv3b.jpg",
@@ -329,7 +329,7 @@
       "id": 687163,
       "title": "Project Hail Mary",
       "rating": 8.6,
-      "votes": 8024,
+      "votes": 8029,
       "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
       "poster": "https://image.tmdb.org/t/p/w500/iOb2fjXLbpJgyQXe46n1WtGCnaa.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
@@ -338,8 +338,8 @@
     {
       "id": 936075,
       "title": "Michael",
-      "rating": 8.6,
-      "votes": 4427,
+      "rating": 8.626,
+      "votes": 4429,
       "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
       "poster": "https://image.tmdb.org/t/p/w500/dueFqKLvjftnELZaGYwY7xinfaI.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg",
@@ -358,8 +358,8 @@
     {
       "id": 389,
       "title": "12 Angry Men",
-      "rating": 8.6,
-      "votes": 10414,
+      "rating": 8.573,
+      "votes": 10415,
       "overview": "The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young Spanish-American is guilty or innocent of murdering his father. What begins as an open and shut case soon becomes a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other.",
       "poster": "https://image.tmdb.org/t/p/w500/zhG3vKWyDRaZYoaww1UVAi29T9h.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/qqHQsStV6exghCM7zbObuYBiYxw.jpg",
