@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-16T21:30:32.262687+00:00",
+  "updated": "2026-11-17T06:03:54.846637+00:00",
   "trending": [
     {
       "id": 1368337,
       "title": "The Odyssey",
-      "rating": 8.022,
-      "votes": 4960,
+      "rating": 8.024,
+      "votes": 4989,
       "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
       "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/mIi99BK2mDpLp2lGsa8jCBDFit4.jpg",
@@ -14,22 +14,12 @@
     {
       "id": 1300968,
       "title": "The Hunger Games: Sunrise on the Reaping",
-      "rating": 9.5,
-      "votes": 9,
+      "rating": 9.4,
+      "votes": 11,
       "overview": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
       "poster": "https://image.tmdb.org/t/p/w500/j1MNyNNgNQL6f27cb3m3uKaPKd6.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
       "release": "2026-11-18"
-    },
-    {
-      "id": 1185344,
-      "title": "The Beast",
-      "rating": 5.318,
-      "votes": 33,
-      "overview": "When a militia of unidentified hostiles coordinates a coup against the United States, the president must fight back by utilizing the highly classified offensive capabilities of his armored limousine, nicknamed The Beast.",
-      "poster": "https://image.tmdb.org/t/p/w500/ocg5JfJP19fodcv5uQUApkmZMdI.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/v5Wb9NoE0s1mGmC5wVeQR1OK22V.jpg",
-      "release": "2026-10-08"
     },
     {
       "id": 1003596,
@@ -38,24 +28,24 @@
       "votes": 0,
       "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
       "poster": "https://image.tmdb.org/t/p/w500/1zqWkLwC1zLBBBtIWzmkmWeMWnT.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/4NxnrRmI7goXMsRASwSegf50MC8.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/s7zXvbb0AZp2iwcLjY75FGcZpLs.jpg",
       "release": "2026-12-16"
     },
     {
-      "id": 1567605,
-      "title": "Ebenezer",
-      "rating": 7.731,
-      "votes": 80,
-      "overview": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
-      "poster": "https://image.tmdb.org/t/p/w500/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/fdOVxyNNL95SuI8BGaN6vudEuYX.jpg",
-      "release": "2026-11-11"
+      "id": 1185344,
+      "title": "The Beast",
+      "rating": 5.2,
+      "votes": 32,
+      "overview": "When a militia of unidentified hostiles coordinates a coup against the United States, the president must fight back by utilizing the highly classified offensive capabilities of his armored limousine, nicknamed The Beast.",
+      "poster": "https://image.tmdb.org/t/p/w500/ocg5JfJP19fodcv5uQUApkmZMdI.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/v5Wb9NoE0s1mGmC5wVeQR1OK22V.jpg",
+      "release": "2026-10-08"
     },
     {
       "id": 1381071,
       "title": "Godzilla Minus Zero",
-      "rating": 7.697,
-      "votes": 229,
+      "rating": 7.683,
+      "votes": 240,
       "overview": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here.",
       "poster": "https://image.tmdb.org/t/p/w500/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/oqrYIDH4tvfEzPe1yqT4jzmAWHQ.jpg",
@@ -64,52 +54,42 @@
     {
       "id": 1400837,
       "title": "Other Mommy",
-      "rating": 6.337,
-      "votes": 451,
+      "rating": 6.401,
+      "votes": 466,
       "overview": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
       "poster": "https://image.tmdb.org/t/p/w500/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/smZ8BT4Vzw4iCEppTLCnN8jNYtn.jpg",
       "release": "2026-10-07"
     },
     {
-      "id": 1423191,
-      "title": "Resident Evil",
-      "rating": 7.513,
-      "votes": 2267,
-      "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
-      "poster": "https://image.tmdb.org/t/p/w500/gAgWJhUSQWCgtKR8170nMkYlBda.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/8R79AZjX1Bt4219Ub3CrRMsPQsW.jpg",
-      "release": "2026-09-16"
-    },
-    {
-      "id": 1263337,
-      "title": "Heart of the Beast",
-      "rating": 7.622,
-      "votes": 904,
-      "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
-      "poster": "https://image.tmdb.org/t/p/w500/6sYemVUn79UPKz1ZsSG6kPU4RVy.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/yE766yhgg98tKwTKd8CyNvAtmn6.jpg",
-      "release": "2026-09-19"
+      "id": 1567605,
+      "title": "Ebenezer",
+      "rating": 7.6,
+      "votes": 83,
+      "overview": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
+      "poster": "https://image.tmdb.org/t/p/w500/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/fdOVxyNNL95SuI8BGaN6vudEuYX.jpg",
+      "release": "2026-11-11"
     },
     {
       "id": 969681,
       "title": "Spider-Man: Brand New Day",
-      "rating": 8.464,
-      "votes": 6904,
+      "rating": 8.463,
+      "votes": 6916,
       "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
       "poster": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/4tjxYg2AbOzzG9G1YuiT2NzYhlH.jpg",
       "release": "2026-07-29"
     },
     {
-      "id": 1543469,
-      "title": "Heartland",
-      "rating": 6.639,
-      "votes": 54,
-      "overview": "Former country music legend Misty Jones returns to Nashville to unravel the truth behind her rising-star niece's disappearance.",
-      "poster": "https://image.tmdb.org/t/p/w500/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/psTMZj8gvsfYVfvd7FZCHH4xL6P.jpg",
-      "release": "2026-11-13"
+      "id": 1423191,
+      "title": "Resident Evil",
+      "rating": 7.511,
+      "votes": 2289,
+      "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
+      "poster": "https://image.tmdb.org/t/p/w500/gAgWJhUSQWCgtKR8170nMkYlBda.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/8R79AZjX1Bt4219Ub3CrRMsPQsW.jpg",
+      "release": "2026-09-16"
     },
     {
       "id": 1170608,
@@ -117,17 +97,37 @@
       "rating": 0.0,
       "votes": 0,
       "overview": "Nearly two decades after he seized control of the Imperium, Paul Atreides is now a ruthless Emperor, and must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As enemies close in, Paul must confront the true cost of power and the fate of those he loves the most.",
-      "poster": "https://image.tmdb.org/t/p/w500/glt0v4I89rMWstDNCaFXc5SNyO1.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/d43fvHQsIMa4kpyhKXw0haEJIvI.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/i5E9H7Ik0u61ylDDTbmUpTL3Yw.jpg",
       "release": "2026-12-15"
+    },
+    {
+      "id": 1263337,
+      "title": "Heart of the Beast",
+      "rating": 7.656,
+      "votes": 933,
+      "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
+      "poster": "https://image.tmdb.org/t/p/w500/6sYemVUn79UPKz1ZsSG6kPU4RVy.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/yE766yhgg98tKwTKd8CyNvAtmn6.jpg",
+      "release": "2026-09-19"
+    },
+    {
+      "id": 1375441,
+      "title": "Primetime",
+      "rating": 6.758,
+      "votes": 440,
+      "overview": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare of performative justice.",
+      "poster": "https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/sEsMwSDUWGIx9EfNxzM6KzVSsSQ.jpg",
+      "release": "2026-09-23"
     }
   ],
   "popular": [
     {
       "id": 1263337,
       "title": "Heart of the Beast",
-      "rating": 7.606,
-      "votes": 893,
+      "rating": 7.632,
+      "votes": 912,
       "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
       "poster": "https://image.tmdb.org/t/p/w500/6sYemVUn79UPKz1ZsSG6kPU4RVy.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/yE766yhgg98tKwTKd8CyNvAtmn6.jpg",
@@ -136,8 +136,8 @@
     {
       "id": 1423191,
       "title": "Resident Evil",
-      "rating": 7.5,
-      "votes": 2257,
+      "rating": 7.508,
+      "votes": 2276,
       "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
       "poster": "https://image.tmdb.org/t/p/w500/gAgWJhUSQWCgtKR8170nMkYlBda.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/8R79AZjX1Bt4219Ub3CrRMsPQsW.jpg",
@@ -146,8 +146,8 @@
     {
       "id": 1368337,
       "title": "The Odyssey",
-      "rating": 8.022,
-      "votes": 4943,
+      "rating": 8.023,
+      "votes": 4965,
       "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
       "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/mIi99BK2mDpLp2lGsa8jCBDFit4.jpg",
@@ -156,38 +156,38 @@
     {
       "id": 1400837,
       "title": "Other Mommy",
-      "rating": 6.329,
-      "votes": 439,
-      "overview": "7-year-old Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
+      "rating": 6.3,
+      "votes": 452,
+      "overview": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
       "poster": "https://image.tmdb.org/t/p/w500/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/smZ8BT4Vzw4iCEppTLCnN8jNYtn.jpg",
       "release": "2026-10-07"
     },
     {
-      "id": 969681,
-      "title": "Spider-Man: Brand New Day",
-      "rating": 8.464,
-      "votes": 6898,
-      "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-      "poster": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/4tjxYg2AbOzzG9G1YuiT2NzYhlH.jpg",
-      "release": "2026-07-29"
-    },
-    {
       "id": 687163,
       "title": "Project Hail Mary",
-      "rating": 8.6,
-      "votes": 8909,
+      "rating": 8.624,
+      "votes": 8916,
       "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
       "poster": "https://image.tmdb.org/t/p/w500/iOb2fjXLbpJgyQXe46n1WtGCnaa.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
       "release": "2026-03-15"
     },
     {
+      "id": 969681,
+      "title": "Spider-Man: Brand New Day",
+      "rating": 8.464,
+      "votes": 6908,
+      "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+      "poster": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/4tjxYg2AbOzzG9G1YuiT2NzYhlH.jpg",
+      "release": "2026-07-29"
+    },
+    {
       "id": 1058424,
       "title": "Hope",
-      "rating": 6.82,
-      "votes": 681,
+      "rating": 6.826,
+      "votes": 688,
       "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
       "poster": "https://image.tmdb.org/t/p/w500/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/j96rurZqmBjyY37Fncl3IB0qJNe.jpg",
@@ -196,8 +196,8 @@
     {
       "id": 1813355,
       "title": "A Story of Derry",
-      "rating": 6.688,
-      "votes": 128,
+      "rating": 6.659,
+      "votes": 129,
       "overview": "Hundreds of years before Pennywise, three youngsters venture into the Western Wood...where they encounter a terrifying ancient spirit.",
       "poster": "https://image.tmdb.org/t/p/w500/4PtzGcegF5Po1NmDAW9IklyvAUh.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/z26LxXDMmAIzKr06FPDudCJyvsM.jpg",
@@ -206,7 +206,7 @@
     {
       "id": 1507696,
       "title": "Apocalypse Z: New World",
-      "rating": 6.128,
+      "rating": 6.119,
       "votes": 218,
       "overview": "The Canary Islands have become Europe’s last refuge following the outbreak of the TSJ virus. When a special mission sets out for the mainland in search of vital supplies, Roberto joins the team with questionable intentions. The dangerous operation turns into a desperate race for survival, and Roberto and his companions find themselves caught between hordes of infected and divided loyalties.",
       "poster": "https://image.tmdb.org/t/p/w500/wXln4DUrwcyjcFPwgQxFPYTlG1Z.jpg",
@@ -216,8 +216,8 @@
     {
       "id": 1616687,
       "title": "Never Surrender",
-      "rating": 7.043,
-      "votes": 35,
+      "rating": 7.1,
+      "votes": 38,
       "overview": "When a deadly gang descends on his remote home, a guilt-ridden veteran and the estranged grandchildren he barely knows must unite to survive.",
       "poster": "https://image.tmdb.org/t/p/w500/hKROmLddpzpjkxKKVFYFRAOXX1b.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/umxN2kMcUm6VoxSOdcEcQoXuC4q.jpg",
@@ -226,7 +226,7 @@
     {
       "id": 1244523,
       "title": "Beware Boiúna",
-      "rating": 6.048,
+      "rating": 6.0,
       "votes": 63,
       "overview": "A medical mission deep in the Amazon becomes a desperate fight for survival when a colossal ancient predator awakens, turning the jungle into a deadly battleground where nature decides who lives and dies.",
       "poster": "https://image.tmdb.org/t/p/w500/7mI13sTZcuwWEIUK9fckAb8Zmba.jpg",
@@ -240,7 +240,7 @@
       "votes": 0,
       "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
       "poster": "https://image.tmdb.org/t/p/w500/1zqWkLwC1zLBBBtIWzmkmWeMWnT.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/4NxnrRmI7goXMsRASwSegf50MC8.jpg",
       "release": "2026-12-16"
     }
   ],
@@ -268,8 +268,8 @@
     {
       "id": 1007757,
       "title": "Swapped",
-      "rating": 8.8,
-      "votes": 2303,
+      "rating": 8.83,
+      "votes": 2302,
       "overview": "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifetime to switch back. Their journey soon uncovers a greater threat—one that could endanger not only their species, but the entire valley they call home.",
       "poster": "https://image.tmdb.org/t/p/w500/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
@@ -278,8 +278,8 @@
     {
       "id": 1311031,
       "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
-      "rating": 8.8,
-      "votes": 2396,
+      "rating": 8.798,
+      "votes": 2398,
       "overview": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
       "poster": "https://image.tmdb.org/t/p/w500/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
@@ -318,8 +318,8 @@
     {
       "id": 238,
       "title": "The Godfather",
-      "rating": 8.7,
-      "votes": 23996,
+      "rating": 8.689,
+      "votes": 23997,
       "overview": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
       "poster": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/tSPT36ZKlP2WVHJLM4cQPLSzv3b.jpg",
@@ -329,7 +329,7 @@
       "id": 687163,
       "title": "Project Hail Mary",
       "rating": 8.624,
-      "votes": 8914,
+      "votes": 8918,
       "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
       "poster": "https://image.tmdb.org/t/p/w500/iOb2fjXLbpJgyQXe46n1WtGCnaa.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
