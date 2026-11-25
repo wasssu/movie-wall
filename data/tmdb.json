@@ -1,16 +1,6 @@
 {
-  "updated": "2026-11-25T06:32:52.043224+00:00",
+  "updated": "2026-11-25T20:56:53.079140+00:00",
   "trending": [
-    {
-      "id": 1765072,
-      "title": "You Can See Everything",
-      "rating": 8.7,
-      "votes": 179,
-      "overview": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.",
-      "poster": "https://image.tmdb.org/t/p/w500/mVh3qkw2NUFxWWyF0G1hg2Wh0K5.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/rrbbzCyS45yooXpUGJatfptlHYI.jpg",
-      "release": "2026-10-16"
-    },
     {
       "id": 1003596,
       "title": "Avengers: Doomsday",
@@ -22,60 +12,80 @@
       "release": "2026-12-16"
     },
     {
-      "id": 1281331,
-      "title": "The Social Reckoning",
-      "rating": 7.053,
-      "votes": 169,
-      "overview": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets.",
-      "poster": "https://image.tmdb.org/t/p/w500/vWbEuI3LuFOGYZIxESLAmwFwtvr.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/wXTaGcqX3jvdXSKCJAkl5jZyrKp.jpg",
-      "release": "2026-10-07"
+      "id": 1458300,
+      "title": "The Mosquito Bowl",
+      "rating": 6.833,
+      "votes": 12,
+      "overview": "In the aftermath of Pearl Harbor, four college football stars enlist in the US Marines, discovering the strength of brotherhood and the cost of war.",
+      "poster": "https://image.tmdb.org/t/p/w500/zbT4sxoCEeFWlQG4SC5X9Q8v6PC.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/k2djfMwL3LhpvZMfPN7IFX4DG5N.jpg",
+      "release": "2026-10-29"
     },
     {
-      "id": 1195803,
-      "title": "Wicker",
-      "rating": 7.5,
-      "votes": 64,
-      "overview": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbours, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos.",
-      "poster": "https://image.tmdb.org/t/p/w500/5sVi66aTT9X2uMldmIwu9JW3hZ2.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/r4DTGm1f1r23cyjRJ5kFMh7qYlj.jpg",
-      "release": "2026-10-21"
+      "id": 1280115,
+      "title": "Way of the Warrior Kid",
+      "rating": 7.875,
+      "votes": 8,
+      "overview": "Jake is an injured Navy SEAL who becomes a mentor for his shy, struggling nephew Marc. Using the principles of his military training, Jake teaches Marc how to be a Warrior Kid as he enters high school.",
+      "poster": "https://image.tmdb.org/t/p/w500/atI81xXKNVah7PJFBo3aXqQKtnG.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/vOByLZRhCIIItlSlCT7bYbI9MYL.jpg",
+      "release": "2026-11-24"
     },
     {
-      "id": 1300968,
-      "title": "The Hunger Games: Sunrise on the Reaping",
-      "rating": 7.8,
-      "votes": 335,
-      "overview": "Return to the world of Panem 24 years before Katniss Everdeen volunteers in her sister's place, commencing on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
-      "poster": "https://image.tmdb.org/t/p/w500/5ffVOGY3x3Sn3jovzvycJeizpks.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
-      "release": "2026-11-18"
+      "id": 1765072,
+      "title": "You Can See Everything",
+      "rating": 8.703,
+      "votes": 190,
+      "overview": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.",
+      "poster": "https://image.tmdb.org/t/p/w500/mVh3qkw2NUFxWWyF0G1hg2Wh0K5.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/rrbbzCyS45yooXpUGJatfptlHYI.jpg",
+      "release": "2026-10-16"
     },
     {
       "id": 1538497,
       "title": "Hexed",
-      "rating": 6.273,
-      "votes": 11,
+      "rating": 6.2,
+      "votes": 14,
       "overview": "An impulsive and unconventional teenage girl named Billie discovers secret magical abilities which, once unleashed, hurtle her into a spectacle-filled journey out of suburbia and into a vast witch realm called Hexe. Forced to team up with her cautious mother, Alice, they uncover family mysteries that could change the world of witches forever.",
       "poster": "https://image.tmdb.org/t/p/w500/yykeYKbDBM9eUMJUucaaDo2mi1p.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/wdjW11Tp4w9EfDBxbjyBJvDVHDA.jpg",
       "release": "2026-11-25"
     },
     {
-      "id": 1611767,
-      "title": "Clashing Through the Snow",
-      "rating": 6.685,
-      "votes": 46,
-      "overview": "Rival publishing editors Ryan Mitchell and Hannah Hendricks are stranded by a holiday snowstorm and forced to share a rental car to New York, where a career-saving deal awaits them both. As roadside mishaps and small-town detours pile up, the holiday spirit begins to melt their fierce rivalry into something unexpected.",
-      "poster": "https://image.tmdb.org/t/p/w500/95K1Y96ELBDL3M8kyTVb5wocCtX.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/x6kwEsxxqLIoqpIrZOXRV0LORqm.jpg",
-      "release": "2026-11-23"
+      "id": 1195803,
+      "title": "Wicker",
+      "rating": 7.4,
+      "votes": 66,
+      "overview": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbours, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos.",
+      "poster": "https://image.tmdb.org/t/p/w500/6FcBZOKvyrLCKGCyBG0ySCR4okt.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/r4DTGm1f1r23cyjRJ5kFMh7qYlj.jpg",
+      "release": "2026-10-21"
+    },
+    {
+      "id": 1281331,
+      "title": "The Social Reckoning",
+      "rating": 7.0,
+      "votes": 173,
+      "overview": "Frances Haugen, a young Facebook engineer, enlists the help of Jeff Horwitz, a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network's most guarded secrets.",
+      "poster": "https://image.tmdb.org/t/p/w500/vWbEuI3LuFOGYZIxESLAmwFwtvr.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/wXTaGcqX3jvdXSKCJAkl5jZyrKp.jpg",
+      "release": "2026-10-07"
+    },
+    {
+      "id": 1300968,
+      "title": "The Hunger Games: Sunrise on the Reaping",
+      "rating": 7.8,
+      "votes": 345,
+      "overview": "Return to the world of Panem 24 years before Katniss Everdeen volunteers in her sister's place, commencing on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
+      "poster": "https://image.tmdb.org/t/p/w500/5ffVOGY3x3Sn3jovzvycJeizpks.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
+      "release": "2026-11-18"
     },
     {
       "id": 1368337,
       "title": "The Odyssey",
-      "rating": 8.027,
-      "votes": 5456,
+      "rating": 8.024,
+      "votes": 5476,
       "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
       "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/c7btGYblBnfAaw713WvFM0Kimc7.jpg",
@@ -84,8 +94,8 @@
     {
       "id": 969681,
       "title": "Spider-Man: Brand New Day",
-      "rating": 8.454,
-      "votes": 7105,
+      "rating": 8.455,
+      "votes": 7113,
       "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
       "poster": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/r08LxMJCbf1SiJIWeyH9aJmdqwC.jpg",
@@ -94,124 +104,34 @@
     {
       "id": 1496696,
       "title": "Breeder",
-      "rating": 7.4,
-      "votes": 20,
+      "rating": 7.212,
+      "votes": 26,
       "overview": "An eccentric poodle breeder lures a broke college student to her remote ranch with a promise of research funding. But, as he soon learns, there’s a catch.",
       "poster": "https://image.tmdb.org/t/p/w500/alsb3UC17kxIcytLWvwkmL0STgU.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/jUZPTTNTlom7VaSesvAZpnL4IGe.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/l5gJE9xW1FFtub3gUezh1PjBbY5.jpg",
       "release": "2026-10-28"
     },
     {
-      "id": 1595124,
-      "title": "Steps",
-      "rating": 7.2,
-      "votes": 91,
-      "overview": "After being blamed for disrupting the Royal Ball with a stolen magic wand, a misunderstood stepsister accidentally turns her sister into a frog and must team up with Cinderella and an unlikely ally to save the kingdom and rewrite their fairytale ending.",
-      "poster": "https://image.tmdb.org/t/p/w500/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg",
-      "release": "2026-11-20"
-    },
-    {
-      "id": 1170608,
-      "title": "Dune: Part Three",
-      "rating": 0.0,
-      "votes": 0,
-      "overview": "Nearly two decades after he seized control of the Imperium, Paul Atreides is now a ruthless Emperor, and must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As enemies close in, Paul must confront the true cost of power and the fate of those he loves the most.",
-      "poster": "https://image.tmdb.org/t/p/w500/d43fvHQsIMa4kpyhKXw0haEJIvI.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/i5E9H7Ik0u61ylDDTbmUpTL3Yw.jpg",
-      "release": "2026-12-15"
+      "id": 1400336,
+      "title": "Focker In-Law",
+      "rating": 7.286,
+      "votes": 7,
+      "overview": "Henry, son of Greg and Pam Focker, aims to marry Olivia, a strong-willed former hostage negotiator who appears to be his complete mismatch. To Greg's shock, father-in-law Jack Byrnes takes a liking to Olivia, and her unprecedented rise into his Circle of Trust sparks chaos in the family before Jack's 80th birthday party.",
+      "poster": "https://image.tmdb.org/t/p/w500/iHJhSfqFpDMOyeMc6h6BOeHxse2.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/6IfsmHoVWwgJwzxA9DLim2XZbSn.jpg",
+      "release": "2026-11-21"
     }
   ],
   "popular": [
     {
       "id": 1726,
       "title": "Iron Man",
-      "rating": 7.669,
-      "votes": 29271,
+      "rating": 7.7,
+      "votes": 29279,
       "overview": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
       "poster": "https://image.tmdb.org/t/p/w500/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/cKvDv2LpwVEqbdXWoQl4XgGN6le.jpg",
       "release": "2008-04-30"
-    },
-    {
-      "id": 1368337,
-      "title": "The Odyssey",
-      "rating": 8.026,
-      "votes": 5454,
-      "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
-      "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/c7btGYblBnfAaw713WvFM0Kimc7.jpg",
-      "release": "2026-07-15"
-    },
-    {
-      "id": 1300968,
-      "title": "The Hunger Games: Sunrise on the Reaping",
-      "rating": 7.8,
-      "votes": 333,
-      "overview": "Return to the world of Panem 24 years before Katniss Everdeen volunteers in her sister's place, commencing on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
-      "poster": "https://image.tmdb.org/t/p/w500/bBBI8JgWLVC4CQ0UrVDOJ7MkuvW.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
-      "release": "2026-11-18"
-    },
-    {
-      "id": 1263337,
-      "title": "Heart of the Beast",
-      "rating": 7.873,
-      "votes": 1219,
-      "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
-      "poster": "https://image.tmdb.org/t/p/w500/6sYemVUn79UPKz1ZsSG6kPU4RVy.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/yE766yhgg98tKwTKd8CyNvAtmn6.jpg",
-      "release": "2026-09-19"
-    },
-    {
-      "id": 969681,
-      "title": "Spider-Man: Brand New Day",
-      "rating": 8.454,
-      "votes": 7102,
-      "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-      "poster": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/r08LxMJCbf1SiJIWeyH9aJmdqwC.jpg",
-      "release": "2026-07-29"
-    },
-    {
-      "id": 1400837,
-      "title": "Other Mommy",
-      "rating": 6.523,
-      "votes": 617,
-      "overview": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
-      "poster": "https://image.tmdb.org/t/p/w500/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/smZ8BT4Vzw4iCEppTLCnN8jNYtn.jpg",
-      "release": "2026-10-07"
-    },
-    {
-      "id": 1423191,
-      "title": "Resident Evil",
-      "rating": 7.522,
-      "votes": 2540,
-      "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
-      "poster": "https://image.tmdb.org/t/p/w500/gAgWJhUSQWCgtKR8170nMkYlBda.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/vqNSvCFknXObgqn7nOFrJVEeGht.jpg",
-      "release": "2026-09-16"
-    },
-    {
-      "id": 1003596,
-      "title": "Avengers: Doomsday",
-      "rating": 0.0,
-      "votes": 0,
-      "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
-      "poster": "https://image.tmdb.org/t/p/w500/1zqWkLwC1zLBBBtIWzmkmWeMWnT.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
-      "release": "2026-12-16"
-    },
-    {
-      "id": 1058424,
-      "title": "Hope",
-      "rating": 6.884,
-      "votes": 781,
-      "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
-      "poster": "https://image.tmdb.org/t/p/w500/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/qqHFLg90IUSoTmSMpKOOW5RyqN3.jpg",
-      "release": "2026-07-15"
     },
     {
       "id": 801688,
@@ -224,24 +144,104 @@
       "release": "2024-06-26"
     },
     {
-      "id": 1616687,
-      "title": "Never Surrender",
-      "rating": 6.969,
-      "votes": 80,
-      "overview": "When a deadly gang descends on his remote home, a guilt-ridden veteran and the estranged grandchildren he barely knows must unite to survive.",
-      "poster": "https://image.tmdb.org/t/p/w500/hKROmLddpzpjkxKKVFYFRAOXX1b.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w500/bjt53Hjqwl9VrtJkDv39GwmE1QN.jpg",
-      "release": "2026-11-11"
+      "id": 1368337,
+      "title": "The Odyssey",
+      "rating": 8.024,
+      "votes": 5471,
+      "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+      "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/c7btGYblBnfAaw713WvFM0Kimc7.jpg",
+      "release": "2026-07-15"
+    },
+    {
+      "id": 1300968,
+      "title": "The Hunger Games: Sunrise on the Reaping",
+      "rating": 7.794,
+      "votes": 342,
+      "overview": "Return to the world of Panem 24 years before Katniss Everdeen volunteers in her sister's place, commencing on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
+      "poster": "https://image.tmdb.org/t/p/w500/5ffVOGY3x3Sn3jovzvycJeizpks.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/aqFZcr2dxSZ2UwWSo1WC6C0rwDf.jpg",
+      "release": "2026-11-18"
+    },
+    {
+      "id": 1263337,
+      "title": "Heart of the Beast",
+      "rating": 7.875,
+      "votes": 1224,
+      "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
+      "poster": "https://image.tmdb.org/t/p/w500/6sYemVUn79UPKz1ZsSG6kPU4RVy.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/yE766yhgg98tKwTKd8CyNvAtmn6.jpg",
+      "release": "2026-09-23"
+    },
+    {
+      "id": 969681,
+      "title": "Spider-Man: Brand New Day",
+      "rating": 8.454,
+      "votes": 7110,
+      "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+      "poster": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/r08LxMJCbf1SiJIWeyH9aJmdqwC.jpg",
+      "release": "2026-07-29"
+    },
+    {
+      "id": 1003596,
+      "title": "Avengers: Doomsday",
+      "rating": 0.0,
+      "votes": 0,
+      "overview": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
+      "poster": "https://image.tmdb.org/t/p/w500/1zqWkLwC1zLBBBtIWzmkmWeMWnT.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/rObL4of4eFA8yWaN9pRFo9aOVNi.jpg",
+      "release": "2026-12-16"
+    },
+    {
+      "id": 1400837,
+      "title": "Other Mommy",
+      "rating": 6.526,
+      "votes": 623,
+      "overview": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
+      "poster": "https://image.tmdb.org/t/p/w500/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/smZ8BT4Vzw4iCEppTLCnN8jNYtn.jpg",
+      "release": "2026-10-07"
+    },
+    {
+      "id": 1423191,
+      "title": "Resident Evil",
+      "rating": 7.524,
+      "votes": 2551,
+      "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
+      "poster": "https://image.tmdb.org/t/p/w500/gAgWJhUSQWCgtKR8170nMkYlBda.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/vqNSvCFknXObgqn7nOFrJVEeGht.jpg",
+      "release": "2026-09-16"
+    },
+    {
+      "id": 1058424,
+      "title": "Hope",
+      "rating": 6.888,
+      "votes": 782,
+      "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
+      "poster": "https://image.tmdb.org/t/p/w500/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/qqHFLg90IUSoTmSMpKOOW5RyqN3.jpg",
+      "release": "2026-07-15"
     },
     {
       "id": 1551025,
       "title": "Guarding Stars",
-      "rating": 6.897,
-      "votes": 121,
+      "rating": 6.935,
+      "votes": 123,
       "overview": "When a no-nonsense bodyguard is assigned to protect a charming action star over the holidays, sparks fly, secrets unravel, and Christmas gets a whole lot more complicated.",
       "poster": "https://image.tmdb.org/t/p/w500/5bsXFYXOlbzHBpl9mPaxmOPIQJ9.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/qHvap0vpfTBIbv7cnR0OyBRqQHG.jpg",
       "release": "2026-11-18"
+    },
+    {
+      "id": 1507696,
+      "title": "Apocalypse Z: New World",
+      "rating": 6.178,
+      "votes": 264,
+      "overview": "The Canary Islands have become Europe’s last refuge following the outbreak of the TSJ virus. When a special mission sets out for the mainland in search of vital supplies, Roberto joins the team with questionable intentions. The dangerous operation turns into a desperate race for survival, and Roberto and his companions find themselves caught between hordes of infected and divided loyalties.",
+      "poster": "https://image.tmdb.org/t/p/w500/wXln4DUrwcyjcFPwgQxFPYTlG1Z.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w500/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg",
+      "release": "2026-10-09"
     }
   ],
   "top_rated": [
@@ -268,8 +268,8 @@
     {
       "id": 1007757,
       "title": "Swapped",
-      "rating": 8.828,
-      "votes": 2312,
+      "rating": 8.827,
+      "votes": 2314,
       "overview": "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifetime to switch back. Their journey soon uncovers a greater threat—one that could endanger not only their species, but the entire valley they call home.",
       "poster": "https://image.tmdb.org/t/p/w500/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
@@ -299,7 +299,7 @@
       "id": 278,
       "title": "The Shawshank Redemption",
       "rating": 8.735,
-      "votes": 31930,
+      "votes": 31932,
       "overview": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
       "poster": "https://image.tmdb.org/t/p/w500/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/v8xVDqt8uCul3c3mgx4VpGCwxJC.jpg",
@@ -318,8 +318,8 @@
     {
       "id": 238,
       "title": "The Godfather",
-      "rating": 8.689,
-      "votes": 24045,
+      "rating": 8.7,
+      "votes": 24048,
       "overview": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
       "poster": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/ejdD20cdHNFAYAN2DlqPToXKyzx.jpg",
@@ -328,8 +328,8 @@
     {
       "id": 687163,
       "title": "Project Hail Mary",
-      "rating": 8.618,
-      "votes": 9019,
+      "rating": 8.6,
+      "votes": 9025,
       "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
       "poster": "https://image.tmdb.org/t/p/w500/iOb2fjXLbpJgyQXe46n1WtGCnaa.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/2I1OFQJ0L9T0dpU6FobKFWV2PxX.jpg",
@@ -348,8 +348,8 @@
     {
       "id": 389,
       "title": "12 Angry Men",
-      "rating": 8.578,
-      "votes": 10634,
+      "rating": 8.577,
+      "votes": 10637,
       "overview": "The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young Spanish-American is guilty or innocent of murdering his father. What begins as an open and shut case soon becomes a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other.",
       "poster": "https://image.tmdb.org/t/p/w500/zhG3vKWyDRaZYoaww1UVAi29T9h.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/qqHQsStV6exghCM7zbObuYBiYxw.jpg",
@@ -359,7 +359,7 @@
       "id": 240,
       "title": "The Godfather Part II",
       "rating": 8.6,
-      "votes": 14660,
+      "votes": 14663,
       "overview": "In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.",
       "poster": "https://image.tmdb.org/t/p/w500/8a1lJs7mFyGhGhZZDT1azJUoQiZ.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w500/pGzqRKrYeK4LogoysNro0vG8d8N.jpg",
